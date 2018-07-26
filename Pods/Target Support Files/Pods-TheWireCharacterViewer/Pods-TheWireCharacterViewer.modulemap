@@ -1,0 +1,6 @@
+framework module Pods_TheWireCharacterViewer {
+  umbrella header "Pods-TheWireCharacterViewer-umbrella.h"
+
+  export *
+  module * { export * }
+}
